@@ -1,7 +1,4 @@
 two
-<<<<<<< HEAD
 321
-=======
 three
->>>>>>> main
 doi
